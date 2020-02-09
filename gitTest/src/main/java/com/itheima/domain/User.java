@@ -9,4 +9,5 @@ public class User {
     private Float money;
     private String city;
     private int id;
+    private String fz;
 }
