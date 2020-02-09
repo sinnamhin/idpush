@@ -10,4 +10,5 @@ public class User {
     private String city;
     private int id;
     private String fz;
+    private int n;
 }
