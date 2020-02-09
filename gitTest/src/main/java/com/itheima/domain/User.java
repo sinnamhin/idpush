@@ -8,4 +8,5 @@ public class User {
     private String sex;
     private Float money;
     private String city;
+    private int id;
 }
