@@ -5,4 +5,5 @@ package com.itheima.domain;
  */
 public class User {
     private String usernam;
+    private String sex;
 }
