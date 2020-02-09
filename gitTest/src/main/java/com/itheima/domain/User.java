@@ -8,6 +8,6 @@ import java.util.Date;
 public class User {
     private String usernam;
     private String sex;
-    private Float money;
+    private Float mony;
     private Date birthday;
 }
