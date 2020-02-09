@@ -7,4 +7,5 @@ public class User {
     private String usernam;
     private String sex;
     private Float money;
+    private String city;
 }
